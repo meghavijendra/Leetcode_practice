@@ -1,4 +1,5 @@
-def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+from typing import List
+def findDisappearedNumbers(nums: List[int]) -> List[int]:
     leng = len(nums) + 1
     nums = list(set(nums))
     i = 1
