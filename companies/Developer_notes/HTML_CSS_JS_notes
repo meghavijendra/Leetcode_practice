@@ -62,3 +62,50 @@ JAVASCRIPT
 -> JavaScript is a programming language that was first created as a way to add functionality and user interaction to a website.
 -> JavaScript is considered a ‘loosely’ typed language, in which types do exist, but they are not enforced. You do not have to declare a type when creating a variable or an array, for instance.
 https://medium.com/front-end-weekly/javascript-interview-questions-with-answers-6194455b091a
+
+TYPESCRIPT
+
+-> It’s a statically typed superset of JavaScript that adds some extra features to the language. Here are some key points:
+
+1. Static Typing: Unlike JavaScript, where types are determined at runtime, TypeScript introduces static typing. This means you can declare the type of a variable, and the TypeScript compiler checks if you’re sticking to your declared types. The ability to specify types for variables helps catch errors during development rather than at runtime. This can significantly improve the robustness of your code
+
+2. Type Annotations: You can explicitly specify types using annotations. For example:
+   let myNumber: number = 42;
+   let myString: string = "Hello, TypeScript!";
+
+3. Interfaces: TypeScript lets you define custom data types using interfaces. They’re like blueprints for objects:
+   interface Person {
+   name: string;
+   age: number;
+   }
+   let john: Person = { name: "John", age: 25 };
+
+4. Classes and Inheritance: TypeScript supports object-oriented programming features like classes and inheritance, making it more structured and modular.
+   class Animal {
+   name: string;
+   constructor(name: string) {
+   this.name = name;
+   }
+   makeSound() {
+   console.log("Some generic sound");
+   }
+   }
+   class Dog extends Animal {
+   makeSound() {
+   console.log("Woof, woof!");
+   }
+   }
+   let myDog: Dog = new Dog("Buddy");
+
+5. Generics: TypeScript has a powerful feature called generics, which allows you to write functions and classes that work with a variety of data types.
+   function identity<T>(arg: T): T {
+   return arg;
+   }
+   let result: number = identity(42);
+
+6. Tooling Support: TypeScript has great tooling support with features like autocompletion, refactoring, and error checking right in your code editor.
+
+7. Compatibility with JavaScript: Existing JavaScript code is valid TypeScript code. You can gradually adopt TypeScript in your projects.
+
+https://medium.com/front-end-weekly/learn-typescript-in-15-minutes-bf921cf355f5
+https://www.educative.io/blog/top-50-typescript-interview-questions#syntax
