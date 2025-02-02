@@ -1,0 +1,15 @@
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\sachi\Leetcode_practice\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
